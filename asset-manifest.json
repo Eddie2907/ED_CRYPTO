@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/ED_CRYPTO/static/js/main.26064249.js",
+    "static/media/btc.png": "/ED_CRYPTO/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/ED_CRYPTO/index.html",
+    "main.26064249.js.map": "/ED_CRYPTO/static/js/main.26064249.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.26064249.js"
+  ]
+}
